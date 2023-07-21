@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hamzajalal
-- 👀 I’m interested in Web and mobile Developing
+- 👀 I’m interested in Python and IOT development
 - 🌱 I’m currently learning BS in CS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
